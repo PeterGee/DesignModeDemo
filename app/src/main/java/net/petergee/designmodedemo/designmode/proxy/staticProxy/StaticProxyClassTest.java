@@ -1,6 +1,7 @@
 package net.petergee.designmodedemo.designmode.proxy.staticProxy;
 
 /**
+ * 测试类
  * @author petergee
  * @date 2018/3/15
  */
