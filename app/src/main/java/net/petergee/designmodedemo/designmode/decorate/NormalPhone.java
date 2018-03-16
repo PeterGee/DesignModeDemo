@@ -1,7 +1,7 @@
 package net.petergee.designmodedemo.designmode.decorate;
 
 /**
- * 基本实现类
+ * 真实实现类
  * @author petergee
  * @date 2018/3/16
  */
