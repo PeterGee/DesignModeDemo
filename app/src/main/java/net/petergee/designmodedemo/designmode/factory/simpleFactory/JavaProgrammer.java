@@ -10,4 +10,5 @@ public class JavaProgrammer extends AbstractProgrammer {
     public void codingType() {
         System.out.println("java");
     }
+
 }

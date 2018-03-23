@@ -9,5 +9,7 @@ public class SimpleFactoryTest {
     public static void main(String[] args){
         AbstractProgrammer programmer=ProgrammerFactory.getCodingType(1);
         programmer.codingType();
+
+
     }
 }

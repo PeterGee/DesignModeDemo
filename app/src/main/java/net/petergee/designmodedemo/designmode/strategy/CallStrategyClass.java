@@ -6,6 +6,10 @@ package net.petergee.designmodedemo.designmode.strategy;
  */
 
 public class CallStrategyClass {
+
+
+
+
     public String callStrategy(IFavoriteFood iFavoriteFood) {
         return iFavoriteFood.getFavoriteFood();
     }
